@@ -1,4 +1,4 @@
-# reflow_oven
+# Reflow oven
 
 Partlist:
 - Arduino Nano
